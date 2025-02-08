@@ -1,3 +1,0 @@
-   Name  Current Price  Daily Low  Daily High  52 Week High  52 Week Low  5 Day Price Return  Month Price Return  Market Cap (Billions)
-0  SMPL          37.49      38.39       37.49        40.525        30.01             -3.3816             -2.5141               3.809934    Name  Current Price  Daily Low  Daily High  52 Week High  52 Week Low  5 Day Price Return  Month Price Return  Market Cap (Billions)
-0  CVPBF           1.94       1.94        1.94            68        51.25             -6.7265             -6.7265              467.12122
